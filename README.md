@@ -3,6 +3,9 @@ A lightweight and minimal Arduino library for the **Sensirion SHT40I-Analog temp
 Supports all analog-output variants (HD1B, ID1B, JD1B, KD1B, LD1B) and converts the sensor’s analog RH/T voltages into real-world **%RH** and **°C / °F** values.  
 Designed for **low flash usage** and compatible with **AVR, ESP32, ESP8266, RP2040, STM32**, and other Arduino platforms.
 
+![Arduino](https://img.shields.io/badge/platform-arduino-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 ---
 
 ## ✨ Features
