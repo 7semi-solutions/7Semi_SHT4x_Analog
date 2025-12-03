@@ -1,4 +1,4 @@
-# 🚀 7Semi_SHT4x_analog
+# 7Semi_SHT4x_analog_Arduino_Library
 A lightweight and minimal Arduino library for the **Sensirion SHT40I-Analog temperature + humidity sensor family**.
 Supports all analog-output variants (HD1B, ID1B, JD1B, KD1B, LD1B) and converts the sensor’s analog RH/T voltages into real-world **%RH** and **°C / °F** values.  
 Designed for **low flash usage** and compatible with **AVR, ESP32, ESP8266, RP2040, STM32**, and other Arduino platforms.
